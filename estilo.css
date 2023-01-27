@@ -1,0 +1,18 @@
+#panel {
+    border: solid 1.5px gray;
+    width: 80%;
+    margin: 0 auto;
+    padding: 5.5px;
+     }
+     fieldset {
+        margin-bottom: 12px; 
+     }
+     legend {
+        border: solid 1.5 green;
+        padding: 7px;
+        font-weight: bold;
+     }
+    body {
+        background: url(https://i.pinimg.com/originals/d2/81/22/d281222fbf26148a4e7b1d9f4bedf25d.jpg);
+        background-size: 100%;
+    }
